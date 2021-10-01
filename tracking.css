@@ -396,9 +396,7 @@ margin-top: 0%;
 {
     border-radius: 12px;
 
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-work.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -20% ;
+  
     background-color: hsl(15, 100%, 70%);
 height: 170px;
 width:95%;
@@ -413,9 +411,7 @@ margin-top: 6%;
 .play
 {
     border-radius: 12px;
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-play.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -20% ;
+
     background-color: hsl(195, 74%, 62%);
     height: 170px;
     width:95%;
@@ -430,9 +426,7 @@ margin-top: 6%;
 .study
 {
     border-radius: 12px;
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-study.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -20% ;
+
     background-color: hsl(348, 100%, 68%);
     height: 170px;
     width:95%;
@@ -448,9 +442,7 @@ margin-top: 6%;
 {
     border-radius: 12px;
 
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-exercise.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -10% ;
+ 
     background-color: hsl(145, 58%, 55%);
     height: 170px;
     width:95%;
@@ -466,9 +458,7 @@ margin-top: 6%;
 {
     border-radius: 12px;
 
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-social.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -15% ;
+    
     background-color: hsl(264, 64%, 52%);
     height: 170px;
     width:95%;
@@ -483,9 +473,7 @@ margin-top: 6%;
 .self_care
 {
     border-radius: 12px;
-    background-image: url(/home/jinny/tutorial/time-tracking-dashboard-main/images/icon-self-care.svg);
-    background-repeat: no-repeat;
-    background-position: 90% -15% ;
+  
     background-color: hsl(43, 84%, 65%);
     height: 170px;
     width:95%;
